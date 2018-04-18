@@ -1,4 +1,6 @@
 # Dungeon of the Eternal Guardian
 ## A CS220 Project
 
-A serious growth from the days of CS220, this project was another collaborative effort between me, Paul Coen, and another group member. The last group member, which will not be named, failed to meet up with us to contribute to the project and was a testement to our resolve to peacefully incorporate him in our project. In the end, he ended up withdrawing from the program and the project was left to us. This project lays near and dear to my heart and was serious product of many sleepless nights as my dedication was absolute. At the end, Paul and I were not only impressed with our end product, but with our growth as students as well. This project serves as a living memory and example of work done in the past.
+A semester long project conducted by Michael Mueller and Paul Coen. Together they built and implemented a simple dungeon crawler game from scratch utilizing the classic concept of raycasting to create a pseudo 3D environment. The project incorporated not only raycast however. The project also ultilizes a multitude of data strutures like linked list, tree, and more as the incorporation of these structures was the ultimate goal of the class.
+
+To demo this project, simply download the project and simply run the jar file included in the download.
